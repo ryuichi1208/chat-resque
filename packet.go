@@ -5,8 +5,6 @@ import (
 	"encoding"
 	"encoding/binary"
 	"io"
-
-	"github.com/satori/go.uuid"
 )
 
 type PacketType uint8
